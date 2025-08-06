@@ -1,8 +1,7 @@
 //
 //  ContentView.swift
-//  TapGame
-// in progress
-//
+//  TapGame in progress
+//come back for more updates
 
 import SwiftUI
 
