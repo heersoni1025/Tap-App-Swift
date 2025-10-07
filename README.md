@@ -3,6 +3,7 @@ A Swift based UI where user is challenegd to tap the screen when an image of the
 
 More coming soon..
 
+Images: apple, dog, egg, etc.
 
 Acknowledgements
 The original idea was inspired by a Udemy video
