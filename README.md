@@ -6,4 +6,4 @@ More coming soon..
 Images: apple, dog, egg, etc.
 
 Acknowledgements
-The original idea was inspired by a Udemy video
+The original idea was inspired by a Udemy video, but modifications were made to feature skills. 
